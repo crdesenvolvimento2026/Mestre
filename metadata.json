@@ -1,0 +1,9 @@
+{
+  "name": "Mestre",
+  "description": "Plataforma Inteligente de Engenharia e Gestão Elétrica. Motor de Engenharia NBR 5410 + ERP Técnico integrado.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
